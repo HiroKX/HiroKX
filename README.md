@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**HiroKX/HiroKX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me : 
+  Robin, 20, from Langres (52)
+  
+## Actual status : 
+- 👨‍🎓 UFR MIM Metz (Bachelor's degree)
+- 👨‍💼 Web Freelancer (HiroKCorp)
+- 🚗 Addicted about old car and rallye (Pilote and Co-Pilote)
+- 👨‍💻 More into Backend than Frontend
+- 🎮 Playing for fun
+- 🌱 Learning new web technologies (Vue, React...) to improve
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me out ?
+- Discord : Robin#2131
+- Mail : r.lagler@laposte.net
+- 
