@@ -11,6 +11,6 @@
 - 🎮 Playing for fun
 - 🌱 Learning new web technologies (Vue, React...) to improve
 
-## How to reach me out ?
+## How to reach me ?
 - Discord : Robin#2131
 - Mail : r.lagler@laposte.net
